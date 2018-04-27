@@ -1,0 +1,28 @@
+{
+  "name": "bog-App-Proj3-dry-Run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosedimplegeorge/bog-App-Proj3-dry-Run.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosedimplegeorge/bog-App-Proj3-dry-Run/issues"
+  },
+  "homepage": "https://github.com/rosedimplegeorge/bog-App-Proj3-dry-Run#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "concurrently": "^3.5.1",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16",
+    "morgan": "^1.9.0"
+  }
+}

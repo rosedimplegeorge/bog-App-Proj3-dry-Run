@@ -1,6 +1,8 @@
 # Build and Release Folders
 bin/
 bin-debug/
+node_modules/
+.env/
 bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
